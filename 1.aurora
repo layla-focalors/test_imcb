@@ -1,0 +1,11 @@
+"py"
+
+import datetime
+
+def open_request():
+    return datetime.datetime.now()
+
+"js"
+console.log(open_request())
+//example : datetime.object.class ? python.js
+
